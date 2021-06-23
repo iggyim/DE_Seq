@@ -1,3 +1,6 @@
+# replace 'sample.txt' with whatever string of nucleotide sequce 
+# returns nucletide count and CG count of sequence 
+
 with open('sample.txt') as sample:
     sample = sample.readline()
 
