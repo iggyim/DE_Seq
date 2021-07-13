@@ -1,3 +1,3 @@
-# sequence_informatics
+## sequence_informatics
 
-## contains codes that could help in analyzing genomic data 
+### contains codes that could help in analyzing genomic data 
