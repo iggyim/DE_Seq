@@ -1,3 +1,5 @@
+# example data is included,,, called "file.csv"
+
 import pandas as pd
 dat=pd.read_csv("file.csv")
 
